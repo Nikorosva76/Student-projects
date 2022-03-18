@@ -59,3 +59,4 @@ __Параметры этапов__
 
 
 ## Используемые библиотеки
+pandas, seaborn, numpy, sklearn, plotly.express, matplotlib, catboost
