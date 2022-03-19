@@ -48,6 +48,4 @@
 
 
 ## Используемые библиотеки
-
-
-
+pandas, scipy, numpy, sklearn, matplotlib
