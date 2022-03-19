@@ -41,4 +41,4 @@ __Целевой признак__
 - Price — цена (евро)
 
 ## Используемые библиотеки
-pandas, seaborn, slkearn, time, plotly.express, catboost, lightgbm
+pandas, seaborn, sklearn, time, plotly.express, catboost, lightgbm
