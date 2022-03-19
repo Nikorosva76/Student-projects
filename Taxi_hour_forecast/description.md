@@ -18,4 +18,4 @@
 Количество заказов находится в столбце 'num_orders' (от англ. number of orders, «число заказов»).
 
 ## Используемые библиотеки
-
+pandas, seaborn, sklearn, time, plotly.express, catboost, lightgbm
