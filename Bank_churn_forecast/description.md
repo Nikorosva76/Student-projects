@@ -36,3 +36,5 @@
 
 ## Используемые библиотеки
 pandas, seaborn, numpy, sklearn, matplotlib
+
+[see Jupyter notebook](https://github.com/Nikorosva76/Student-projects/blob/main/Bank_churn_forecast/bank_churn_forecast.ipynb)
