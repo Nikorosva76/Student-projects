@@ -1,4 +1,7 @@
 ## Проект
+
+[see Jupyter notebook](https://github.com/Nikorosva76/Student-projects/blob/main/Car_Price_Forecast/car_price_forecast.ipynb)
+
 Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. 
 
 ## Задача
@@ -42,3 +45,5 @@ __Целевой признак__
 
 ## Используемые библиотеки
 pandas, seaborn, sklearn, time, plotly.express, catboost, lightgbm
+
+[see Jupyter notebook](https://github.com/Nikorosva76/Student-projects/blob/main/Car_Price_Forecast/car_price_forecast.ipynb)
