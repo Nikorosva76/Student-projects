@@ -1,4 +1,7 @@
 ## Проект
+[see Jupyter notebook](https://github.com/Nikorosva76/Student-projects/blob/main/Taxi_hour_forecast/taxi_one_hour_forecast.ipynb)
+
+
 Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час.
 
 ## Задача 
@@ -19,3 +22,5 @@
 
 ## Используемые библиотеки
 pandas, seaborn, sklearn, time, plotly.express, catboost, lightgbm
+
+[see Jupyter notebook](https://github.com/Nikorosva76/Student-projects/blob/main/Taxi_hour_forecast/taxi_one_hour_forecast.ipynb)
