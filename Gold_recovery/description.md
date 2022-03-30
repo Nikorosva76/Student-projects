@@ -1,4 +1,7 @@
 ## Проект "Прогнозирование коэффициента очистки золота"
+
+[see Jupyter notebook](https://github.com/Nikorosva76/Student-projects/blob/main/Gold_recovery/gold_recovery.ipynb)
+
 Модель предназначена для оптимизациии производства, чтобы не запускать предприятие с убыточными характеристиками.
 
 ## Задача
@@ -60,3 +63,5 @@ __Параметры этапов__
 
 ## Используемые библиотеки
 pandas, seaborn, numpy, sklearn, plotly.express, matplotlib, catboost
+
+[see Jupyter notebook](https://github.com/Nikorosva76/Student-projects/blob/main/Gold_recovery/gold_recovery.ipynb)
