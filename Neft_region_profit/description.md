@@ -1,4 +1,7 @@
 ## Проектная работа
+
+[see Jupyter notebook](https://github.com/Nikorosva76/Student-projects/blob/main/Neft_region_profit/neft_region_profit.ipynb)
+
 Нужно решить, где бурить новую скважину.
 
 Шаги для выбора локации обычно такие:
@@ -49,3 +52,5 @@
 
 ## Используемые библиотеки
 pandas, scipy, numpy, sklearn, matplotlib
+
+[see Jupyter notebook](https://github.com/Nikorosva76/Student-projects/blob/main/Neft_region_profit/neft_region_profit.ipynb)
