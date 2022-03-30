@@ -1,4 +1,6 @@
 ## Проект "Рекомендуемый тариф"
+[see Jupyter notebook](https://github.com/Nikorosva76/Student-projects/blob/main/Recommended_tariff/recomended_tarif.ipynb)
+
 Оператор мобильной связи выяснил, что многие клиенты пользуются архивными тарифами. Необходимо построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Смарт» или «Ультра».
 
 ## Задача
@@ -24,3 +26,5 @@
 
 ## Используемые библиотеки
 pandas, seaborn, numpy, sklearn, plotly.express, matplotlib
+
+[see Jupyter notebook](https://github.com/Nikorosva76/Student-projects/blob/main/Recommended_tariff/recomended_tarif.ipynb)
